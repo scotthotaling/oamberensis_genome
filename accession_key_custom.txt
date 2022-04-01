@@ -1,0 +1,10 @@
+Oamber	Oamber_genome.fasta
+Caceratus	Caceratus_genome.fasta 
+Gacule	Gacule_genome.fasta
+Gmorhua	Gmorhua_genome.fasta
+Pcharcoti	Pcharcoti_genome.fasta 
+Trubrip	Trubrip_genome.fasta
+Cgobio	C_gobio_GCF_900634415.1_fCotGob3.1_genomic.fna
+Dmawsoni	D_mawsoni_GCA_011823955.1_KU_Dm_1.0_genomic.fna
+D_rerio	D_rerio_GCF_000002035.6_GRCz11_genomic.fna
+N_coriiceps N_coriiceps_GCF_000735185.1_NC01_genomic.fna
