@@ -1,0 +1,51 @@
+==================================================
+file name: Gmorhua_genome.fasta     
+sequences:        398859
+total length:  832114588 bp  (608030113 bp excl N/X-runs)
+GC level:         45.56 %
+bases masked:  198673614 bp ( 23.88 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:             4943       353282 bp    0.04 %
+      ALUs            0            0 bp    0.00 %
+      MIRs         1094        72620 bp    0.01 %
+
+LINEs:            65443     13438710 bp    1.62 %
+      LINE1        5593      1176371 bp    0.14 %
+      LINE2       28473      5968888 bp    0.72 %
+      L3/CR1         87        36546 bp    0.00 %
+
+LTR elements:    152053     18955273 bp    2.28 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI  58559      5254685 bp    0.63 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:    509360     43487247 bp    5.23 %
+     hAT-Charlie  17799      1960914 bp    0.24 %
+     TcMar-Tigger     6          151 bp    0.00 %
+
+Unclassified:    869953    120862891 bp   14.52 %
+
+Total interspersed repeats:	197097403 bp   23.69 %
+
+
+Small RNA:         1180        96264 bp    0.01 %
+
+Satellites:        1831       289844 bp    0.03 %
+Simple repeats:   78503      7541910 bp    0.91 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.2.27+
+The query was compared to classified sequences in ".../Gmorhua_RMod_actinopterygii_combined.fasta"
+

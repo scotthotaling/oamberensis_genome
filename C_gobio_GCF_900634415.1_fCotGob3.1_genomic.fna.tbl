@@ -1,0 +1,51 @@
+==================================================
+file name: C_gobio_GCF_900634415.1_fCotGob3.1_genomic.fna
+sequences:           322
+total length:  609391784 bp  (606837859 bp excl N/X-runs)
+GC level:         40.96 %
+bases masked:  152876790 bp ( 25.09 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:             1747       140245 bp    0.02 %
+      ALUs            0            0 bp    0.00 %
+      MIRs          659        42488 bp    0.01 %
+
+LINEs:            89312     28838570 bp    4.73 %
+      LINE1       14652      1997856 bp    0.33 %
+      LINE2       32122     12820211 bp    2.10 %
+      L3/CR1         78        15954 bp    0.00 %
+
+LTR elements:     62749      9266515 bp    1.52 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI  23921      3462452 bp    0.57 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:    298403     39340489 bp    6.46 %
+     hAT-Charlie  24955      7234074 bp    1.19 %
+     TcMar-Tigger    15          371 bp    0.00 %
+
+Unclassified:    491075     77546089 bp   12.73 %
+
+Total interspersed repeats:	155131908 bp   25.46 %
+
+
+Small RNA:         1658       131275 bp    0.02 %
+
+Satellites:        1881      1557168 bp    0.26 %
+Simple repeats:    8183      2177319 bp    0.36 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.2.27+
+The query was compared to classified sequences in ".../C_gob_RmodLib_with_RM_actinopterygii.fasta"
+

@@ -1,0 +1,51 @@
+==================================================
+file name: Oamber_genome.fasta      
+sequences:          1825
+total length:  680721730 bp  (680721730 bp excl N/X-runs)
+GC level:         42.67 %
+bases masked:  204491460 bp ( 30.04 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:             1924       184080 bp    0.03 %
+      ALUs            0            0 bp    0.00 %
+      MIRs          587        52038 bp    0.01 %
+
+LINEs:            60501     25247750 bp    3.71 %
+      LINE1        4671      1594271 bp    0.23 %
+      LINE2       22992     11639715 bp    1.71 %
+      L3/CR1        201       135654 bp    0.02 %
+
+LTR elements:     59184     15065106 bp    2.21 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI  22704      4972658 bp    0.73 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:    269082     33881611 bp    4.98 %
+     hAT-Charlie  17928      5053672 bp    0.74 %
+     TcMar-Tigger    10          290 bp    0.00 %
+
+Unclassified:    591046    130814320 bp   19.22 %
+
+Total interspersed repeats:	205192867 bp   30.14 %
+
+
+Small RNA:         4082       380353 bp    0.06 %
+
+Satellites:        4153      2390300 bp    0.35 %
+Simple repeats:    3355      1663751 bp    0.24 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.2.27+
+The query was compared to classified sequences in ".../Oamber_RMod_actinopterygii_combined.fasta"
+

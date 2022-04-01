@@ -1,0 +1,51 @@
+==================================================
+file name: N_coriiceps_GCF_000735185.1_NC01_genomic.fna
+sequences:         38657
+total length:  636613682 bp  (623395324 bp excl N/X-runs)
+GC level:         40.62 %
+bases masked:  176680388 bp ( 27.75 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:             2883       265699 bp    0.04 %
+      ALUs            0            0 bp    0.00 %
+      MIRs          705        41361 bp    0.01 %
+
+LINEs:            66837     15388732 bp    2.42 %
+      LINE1        4336      1066679 bp    0.17 %
+      LINE2       37122      9645994 bp    1.52 %
+      L3/CR1        128        45084 bp    0.01 %
+
+LTR elements:     55429      6340128 bp    1.00 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI  18627      1521286 bp    0.24 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:    228398     26036054 bp    4.09 %
+     hAT-Charlie  19121      3590871 bp    0.56 %
+     TcMar-Tigger    42          987 bp    0.00 %
+
+Unclassified:    735898    131040611 bp   20.58 %
+
+Total interspersed repeats:	179071224 bp   28.13 %
+
+
+Small RNA:          650        56363 bp    0.01 %
+
+Satellites:         841       128072 bp    0.02 %
+Simple repeats:    2113       267600 bp    0.04 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.2.27+
+The query was compared to classified sequences in ".../N_cor_RmodLib_with_RM_actinopterygii.fasta"
+

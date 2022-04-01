@@ -1,0 +1,51 @@
+==================================================
+file name: D_mawsoni_GCA_011823955.1_KU_Dm_1.0_genomic.fna
+sequences:          1074
+total length:  926363279 bp  (924483279 bp excl N/X-runs)
+GC level:         41.57 %
+bases masked:  366511178 bp ( 39.56 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:             1843      1793539 bp    0.19 %
+      ALUs            0            0 bp    0.00 %
+      MIRs          358        30530 bp    0.00 %
+
+LINEs:           107812     42659928 bp    4.61 %
+      LINE1        7677      4117720 bp    0.44 %
+      LINE2       68607     23200145 bp    2.50 %
+      L3/CR1         77        38512 bp    0.00 %
+
+LTR elements:     52832     37595004 bp    4.06 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI  15901      7857726 bp    0.85 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:    197924     39768145 bp    4.29 %
+     hAT-Charlie  14990      6414069 bp    0.69 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:    1030712    245428773 bp   26.49 %
+
+Total interspersed repeats:	367245389 bp   39.64 %
+
+
+Small RNA:         2309       184832 bp    0.02 %
+
+Satellites:        2094      1492653 bp    0.16 %
+Simple repeats:   18681      2525146 bp    0.27 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.2.27+
+The query was compared to classified sequences in ".../D_maw_RmodLib_with_RM_actinopterygii.fasta"
+

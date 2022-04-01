@@ -1,0 +1,43 @@
+==================================================
+file name: Trubrip_genome.fasta     
+sequences:          6835
+total length:  391484725 bp  (350977873 bp excl N/X-runs)
+GC level:         45.46 %
+bases masked:   45826978 bp ( 11.71 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:             3902       612753 bp    0.16 %
+      ALUs            0            0 bp    0.00 %
+      MIRs           48         3940 bp    0.00 %
+
+LINEs:            44220     13605535 bp    3.48 %
+      LINE1        2286       589209 bp    0.15 %
+      LINE2       16252      5708555 bp    1.46 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:     30604      6087610 bp    1.56 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI   9229      1894258 bp    0.48 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:    121189     12575341 bp    3.21 %
+     hAT-Charlie   6414      1460171 bp    0.37 %
+     TcMar-Tigger   220        79236 bp    0.02 %
+
+Unclassified:     68041     13413759 bp    3.43 %
+
+Total interspersed repeats: 46294998 bp   11.83 %
+
+
+Small RNA:          587        45548 bp    0.01 %
+
+Satellites:         727       132536 bp    0.03 %
+Simple repeats:    1721       240143 bp    0.06 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
