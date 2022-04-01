@@ -11,4 +11,4 @@ Hotaling et al. (2022) Pathways to polar adaptation in fishes revealed by long-r
 
 “RepeatBarPlots.R" - R script that takes output from RM_output_parser.py and generates stacked bar plots in Fig. 2a and 2b.
 
-*.tbl [multiple files in Tables folder] - RepeatMasker output table files summarizing repeat content of ten study species that are parsed by RM_ouptut_parser.py
+*.tbl [multiple files] - RepeatMasker output table files summarizing repeat content of ten study species that are parsed by RM_ouptut_parser.py
