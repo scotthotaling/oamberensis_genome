@@ -3,6 +3,8 @@
 Hotaling et al. (2022) Pathways to polar adaptation in fishes revealed by long-read sequencing
 
 # Files
+"GFF" - hosted on Zenodo at: 10.5281/zenodo.6494764
+
 “RM_output_parser.py" - Python script that parses RepeatMasker output .tbl files. Requires accession_key_custom.txt and .tbl files to be present in the same directory
 
 “accession_key_custom.txt" - List with each assembly named required by RM_output_parser.py
