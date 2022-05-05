@@ -3,7 +3,7 @@
 #SBATCH --mem=250G
 #SBATCH --mail-type=END,FAIL
 
-<path_to_canu> \
+<path_to_canu_program> \
 -s <path_to_parameters_file (see below)> \
 -p oamberensis -d <output_path> genomeSize=700m \
 -pacbio-raw <input_data>
